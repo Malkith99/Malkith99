@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=malkith99&label=Profile%20views&color=0e75b6&style=flat" alt="malkith99" /> </p>
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="programmer" width="350" />
 
- I'm a dedicated self-learner with a strong passion for exploring and implementing cutting-edge technologies in Software Engineering and Computer Science. This repository showcases my projects and experiments in AI/ML, electronics, and full stack development. 👨‍🎓
+ I'm a dedicated self-learner with a strong passion for exploring and implementing cutting-edge technologies in Software Engineering and Computer Science. This repository showcases my projects and experiments in AI/ML, Electronics, and Full Stack Development. 👨‍🎓
 
 - 📫 How to reach me **malkithamanda@gmail.com**
 
