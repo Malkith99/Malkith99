@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm A.V.A. Malkith</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Malkiith A.V.A</h1>
+<h3 align="center">A Passionate Full Stack Developer | ML,AI and Cloud Enthusiastic</h3>
 
 
 
