@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malkiith A.V.A</h1>
+<h1 align="center">Hi 👋, I'm Malkith A.V.A</h1>
 <h3 align="center">A Passionate Full Stack Developer | ML, AI and Cloud Enthusiastic</h3>
 
 
